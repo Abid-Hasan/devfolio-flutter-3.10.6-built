@@ -1,7 +1,3 @@
-# sec_job_cell
-
-App and website of Sylhet Engineering College Job Placement Cell
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
